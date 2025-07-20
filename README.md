@@ -1,6 +1,6 @@
-# 🔩 Cotter and Knuckle Joint FEA Simulation (ANSYS)
+# Cotter and Knuckle Joint FEA Simulation (ANSYS)
 
-## 🔧 Project Summary
+## Project Summary
 
 Performed finite element analysis (FEA) of two key mechanical joints using **ANSYS Workbench**:
 
@@ -11,7 +11,7 @@ Simulated real-world loading conditions to study **stress distribution**, **defo
 
 ---
 
-## 📌 Work Done
+## Work Done
 
 - Imported 3D CAD models (Fusion 360 / STEP files)
 - Applied boundary conditions:
@@ -27,7 +27,7 @@ Simulated real-world loading conditions to study **stress distribution**, **defo
 
 ---
 
-## 🧪 Tools & Skills Used
+## Tools & Skills Used
 
 - ANSYS Mechanical (Workbench & APDL Solver)
 - Static Structural Simulation
