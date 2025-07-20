@@ -1,0 +1,34 @@
+/COM,ANSYS RELEASE 2025 R2           BUILD 25.2      UP20250519       11:14:29
+
+ *** WARNING ***                         CP =       2.719   TIME= 11:14:31
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       3.406   TIME= 11:14:31
+ Material number 10 (used by element 83582) should normally have at      
+ least one MP or one TB type command associated with it.  Output of      
+ energy by material may not be available.                                
+
+ *** WARNING ***                         CP =       3.469   TIME= 11:14:31
+ It has been detected that you are using reduced integration brick       
+ elements along with the PCG solver (EQSLV,PCG).  Please verify that     
+ you have multiple elements through the thickness in your model or       
+ switch to the SPARSE solver (EQSLV,SPARSE).                             
+
+ *** WARNING ***                         CP =      90.625   TIME= 11:15:55
+ Contact element 70252 (real ID 4) has too much sliding distance         
+ 1.17916306 relative to target element 77243.  Switch to finite or       
+ instant small sliding logic (KEYOPT(18)=0,2) to better represent this   
+ situation if desired.                                                   
+
+ *** WARNING ***                         CP =      90.625   TIME= 11:15:55
+ Contact element 82959 (real ID 9) has too much sliding distance         
+ 0.784516651 relative to target element 81911.  Switch to finite or      
+ instant small sliding logic (KEYOPT(18)=0,2) to better represent this   
+ situation if desired.                                                   
+
+ *** WARNING ***                         CP =      90.938   TIME= 11:15:55
+ Contact element 81193 (real ID 7) has too much sliding distance         
+ 0.69589652 relative to target element 79915.  Switch to finite or       
+ instant small sliding logic (KEYOPT(18)=0,2) to better represent this   
+ situation if desired.                                                   

@@ -1,0 +1,2 @@
+﻿	Time [ms]	Minimum [mm]	Maximum [mm]	Average [mm]	
+1	1000.	0.	2.0491	0.61948	

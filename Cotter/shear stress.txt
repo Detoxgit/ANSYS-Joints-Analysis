@@ -1,0 +1,2 @@
+﻿	Time [ms]	Minimum [GPa]	Maximum [GPa]	Average [GPa]	
+1	1000.	-7.6598	8.6657	1.0702e-003	
